@@ -1,0 +1,32 @@
+\documentclass {article}
+
+\usepackage{sectsty}
+\usepackage{graphicx}
+
+\title  {DESAFIO DE LA GESTION DE REQUERIMIENTOS}
+\author {Darwin Bravo, Miriam Lema, Yeron Pool, Anabella Lara}
+\date   {\today}
+
+\begin       {document}
+\maketittle  
+\section      {Introduccion}  
+
+Párrafo 1: Contexto y Desafío de la Gestión de Requerimientos
+En el mundo actual de desarrollo de software, la gestión efectiva de los requerimientos es esencial para el éxito de cualquier proyecto. Los requerimientos actúan como el fundamento sobre el cual se construye todo el proceso de desarrollo, y su correcta identificación, documentación y seguimiento son cruciales para evitar desviaciones, retrasos y costos innecesarios. Sin embargo, a menudo nos encontramos con desafíos en la captura precisa de requerimientos, la comunicación efectiva entre los equipos y la garantía de que los cambios sean gestionados de manera controlada. Es en este contexto que surge la necesidad de desarrollar un programa de software que agilice y mejore significativamente la gestión de procesos de requerimientos.
+
+\section      {Objetivo General}  
+
+Parrafo 2 :Objetivo del Proyecto
+El objetivo primordial de este proyecto de Ingeniería de Software es diseñar, desarrollar e implementar un programa integral para la Gestión de Procesos de Requerimientos. Este programa estará destinado a optimizar la forma en que los equipos capturan, documentan, priorizan, rastrean y gestionan los requerimientos a lo largo del ciclo de vida del desarrollo de software. Al abordar los desafíos antes mencionados, el programa aspira a mejorar la comunicación interdepartamental, reducir la ambigüedad en los requerimientos y garantizar la alineación continua entre las expectativas del cliente y los resultados entregados.
+\section      {Desarrollo}  
+Párrafo 3: Beneficios y Ventajas
+La implementación exitosa de este programa de Gestión de Procesos de Requerimientos conlleva una serie de beneficios sustanciales. Los equipos de desarrollo se beneficiarán de una mayor claridad en los objetivos del proyecto, lo que conducirá a una mayor eficiencia en la asignación de recursos y en la planificación del trabajo. Los stakeholders y los clientes experimentarán una comunicación más transparente y una mayor capacidad para influir en la dirección del proyecto, lo que resultará en una mayor satisfacción del cliente y en la entrega de productos más alineados con sus expectativas.
+
+Párrafo 4: Enfoque Metodológico
+El enfoque metodológico para desarrollar este programa se basará en las mejores prácticas de Ingeniería de Software y en metodologías ágiles. Se seguirá un proceso iterativo e incremental, lo que permitirá la adaptación continua a medida que se obtenga retroalimentación de los usuarios y se realicen ajustes en función de las necesidades cambiantes. Además, se emplearán técnicas de modelado, prototipado y pruebas exhaustivas para garantizar que el programa cumpla con los requisitos establecidos y proporcione una experiencia de usuario fluida y eficaz.
+
+\section      {Conclusion}  
+Párrafo 5: Alcance y Resultados Esperados
+El alcance del proyecto abarcará desde la definición de requerimientos hasta la implementación y prueba del software resultante. Se espera que el programa sea capaz de gestionar múltiples tipos de requerimientos, permitir la trazabilidad de cambios, facilitar la colaboración entre equipos y generar informes analíticos útiles. Los resultados esperados incluyen un software funcional, documentación detallada, capacitación para los usuarios y una transición sin problemas hacia la adopción del nuevo sistema de gestión de requerimientos.
+
+\end{document}
