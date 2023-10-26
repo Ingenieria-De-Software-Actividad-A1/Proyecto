@@ -1,1 +1,28 @@
 Especificaciones de requerimientos del Software
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+
+\begin{document}
+
+\section{Requisitos funcionales}
+
+\subsection{Requisito funcional 1}
+
+\begin{itemize}
+    \item El sistema debe permitir la identificación, clasificación y priorización de los requerimientos de los usuarios y clientes.
+\end{itemize}
+
+\subsection{Requisito funcional 2}
+
+\begin{itemize}
+    \item El sistema debe facilitar la comunicación y colaboración entre los diferentes actores involucrados en el proceso de desarrollo de software.
+\end{itemize}
+
+\begin{itemize}
+    \item[$\checkmark$] Consultar Ventas: Muestra información general sobre las ventas registradas en el sistema con el total de venta correspondiente.
+    \item[$\checkmark$] Consultar Mensualidades: Muestra información general de un pago de mensualidad y el cliente que ha realizado su pago.
+    \item[$\checkmark$] Consultar Clientes: Muestra datos personales del cliente/alumno que además de un expediente médico en caso de emergencia.
+    \item[$\checkmark$] Consultar Instructores: Muestra datos personales de los instructores.
+\end{itemize}
