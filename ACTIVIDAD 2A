@@ -26,3 +26,30 @@ Especificaciones de requerimientos del Software
     \item[$\checkmark$] Consultar Clientes: Muestra datos personales del cliente/alumno que además de un expediente médico en caso de emergencia.
     \item[$\checkmark$] Consultar Instructores: Muestra datos personales de los instructores.
 \end{itemize}
+
+
+
+
+(MI PARTE CUERO MONTAÑO YERON POOL) 
+
+
+
+\subsection{Requisito funcional 5}
+
+\begin{itemize}
+    \item El sistema debe soportar el cambio y la evolución de los requerimientos, gestionando adecuadamente el impacto y los riesgos asociados.
+\end{itemize}
+
+\subsection{Requisito funcional 6}
+
+\begin{itemize}
+    \item El sistema debe integrarse con otras herramientas y plataformas utilizadas en el desarrollo de software, tales como sistemas de diseño, pruebas, documentación, etc.
+\end{itemize}
+
+\section{Requisitos no funcionales}
+
+\subsection{Requisitos de rendimiento}
+
+\begin{itemize}
+    \item Garantizar que el diseño de las consultas u otro proceso no afecte el desempeño de la base de datos, ni considerablemente el tráfico de la red. Los requisitos no funcionales son aquellos que especifican las características o propiedades que debe cumplir el sistema, independientemente de su funcionalidad. Algunos ejemplos de requisitos no funcionales relacionados con el tema de gestión de requerimientos son:
+\end{itemize}
