@@ -26,9 +26,18 @@ Especificaciones de requerimientos del Software
     \item[$\checkmark$] Consultar Clientes: Muestra datos personales del cliente/alumno que además de un expediente médico en caso de emergencia.
     \item[$\checkmark$] Consultar Instructores: Muestra datos personales de los instructores.
 \end{itemize}
+(jomara anabella lara vera)
+\subsection{Requisito funcional 3}
 
+\begin{itemize}
+    \item El sistema debe proporcionar mecanismos para el seguimiento, control y verificación de los requerimientos a lo largo del ciclo de vida del proyecto.
+\end{itemize}
 
+\subsection{Requisito funcional 4}
 
+\begin{itemize}
+    \item El sistema debe garantizar la trazabilidad, consistencia y calidad de los requerimientos, así como su alineación con los objetivos del negocio.
+\end{itemize}
 
 (MI PARTE CUERO MONTAÑO YERON POOL) 
 
@@ -53,3 +62,4 @@ Especificaciones de requerimientos del Software
 \begin{itemize}
     \item Garantizar que el diseño de las consultas u otro proceso no afecte el desempeño de la base de datos, ni considerablemente el tráfico de la red. Los requisitos no funcionales son aquellos que especifican las características o propiedades que debe cumplir el sistema, independientemente de su funcionalidad. Algunos ejemplos de requisitos no funcionales relacionados con el tema de gestión de requerimientos son:
 \end{itemize}
+
